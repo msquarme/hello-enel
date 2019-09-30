@@ -1,2 +1,2 @@
 # hello-enel
-Just another repository
+This is story branch from hello-enel
